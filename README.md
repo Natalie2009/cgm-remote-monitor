@@ -9,7 +9,7 @@ Nightscout Web Monitor (a.k.a. cgm-remote-monitor)
 [![Codacy Badge][codacy-img]][codacy-url]
 [![Discord chat][discord-img]][discord-url]
 
-This acts as a web-based CGM (Continuous Glucose Monitor) to allow
+This acts as a web-based CGM (Continuous Glucose Monitor) to allow for
 multiple caregivers to remotely view a patient's glucose data in
 real time.  The server reads a MongoDB which is intended to be data
 from a physical CGM, where it sends new SGV (sensor glucose values) as
